@@ -1,0 +1,11 @@
+.DS_Store
+**/.DS_Store
+
+# Source PDFs stay local (copyrighted; too large for git)
+*.pdf
+
+# Raw page/image extracts from the PDFs
+_extract/
+
+# Local screenshot dumps
+site/_verify/
